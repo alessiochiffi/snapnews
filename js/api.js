@@ -30,7 +30,6 @@ url: "https://newsapi.org/v1/articles?source=techcrunch&sortBy=latest&apiKey=3c3
            slidesToShow: 3,
            slidesToScroll: 3,
            infinite: true,
-           dots: true
          }
        },
        {
@@ -140,7 +139,6 @@ url: "https://newsapi.org/v1/articles?source=financial-times&sortBy=latest&apiKe
              slidesToShow: 3,
              slidesToScroll: 3,
              infinite: true,
-             dots: true
            }
          },
          {
@@ -196,7 +194,6 @@ url: "https://newsapi.org/v1/articles?source=financial-times&sortBy=latest&apiKe
              slidesToShow: 3,
              slidesToScroll: 3,
              infinite: true,
-             dots: true
            }
          },
          {
@@ -251,7 +248,6 @@ url: "https://newsapi.org/v1/articles?source=financial-times&sortBy=latest&apiKe
                slidesToShow: 3,
                slidesToScroll: 3,
                infinite: true,
-               dots: true
              }
            },
            {
