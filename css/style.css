@@ -142,7 +142,7 @@ h2 {
     display: none;
   }
   .greeting h2 {
-    font-size: 2em;
+    font-size: 2em !important;
   }
 }
 
