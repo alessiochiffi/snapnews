@@ -144,6 +144,20 @@ h2 {
   .greeting h2 {
     font-size: 2em !important;
   }
+  .slick-prev {
+    position: absolute;
+    left: -2em;
+    bottom: 9em;
+    cursor: pointer;
+    top: -7em;
+  }   
+  .slick-next {
+    position: absolute;
+    right: -2em;
+    bottom: 9em;
+    cursor: pointer;
+    top: -7em;
+  } 
 }
 
 
