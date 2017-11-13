@@ -109,6 +109,7 @@ h2 {
     margin-bottom: 1em;
     padding-left: 0;
     padding-right: 0;
+    overflow: hidden;
 }
 
 .header-mag {
@@ -139,6 +140,9 @@ h2 {
 @media (max-width: 800px) {
   .name_mgz {
     display: none;
+  }
+  .greeting h2 {
+    font-size: 2em;
   }
 }
 
