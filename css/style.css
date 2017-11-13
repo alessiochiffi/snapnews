@@ -146,17 +146,17 @@ h2 {
   }
   .slick-prev {
     position: absolute;
-    left: -2em;
+    left: -2em !important;
     bottom: 9em;
     cursor: pointer;
-    top: -7em;
+    top: -7em !important;
   }   
   .slick-next {
     position: absolute;
-    right: -2em;
+    right: -2em !important;
     bottom: 9em;
     cursor: pointer;
-    top: -7em;
+    top: -7em !important;
   } 
 }
 
