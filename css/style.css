@@ -158,6 +158,9 @@ h2 {
     cursor: pointer;
     top: -7em !important;
   } 
+  .header-mag {
+    text-align: center;
+  }
 }
 
 
