@@ -159,7 +159,7 @@ h2 {
     top: -7em !important;
   } 
   .header-mag {
-    text-align: center;
+    text-align: center !important;
   }
 }
 
