@@ -1,4 +1,0 @@
-# snapnews
-
-
-https://tiggger.com
