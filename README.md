@@ -1,4 +1,4 @@
 # snapnews
 
 
-https://alessiochiffi.github.io/snapnews/
+https://tiggger.com
